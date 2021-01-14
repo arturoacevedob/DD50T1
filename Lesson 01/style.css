@@ -1,0 +1,27 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+ol,
+ul,
+li,
+small {
+  display: block;
+  font-family: system-ui;
+  color: #999;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+
+body {
+  background-color: #111;
+}
